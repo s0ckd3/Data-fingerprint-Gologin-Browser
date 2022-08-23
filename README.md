@@ -1,5 +1,5 @@
-# Dữ liệu vân tay dành cho trình duyệt Orbita
-Đầy đủ vân tay của toàn bộ các hệ điều hành Windowns, Macos, Linux, Android giúp bạn tạo profile cho trình duyệt Orbita của Gologin. Có thể sử dụng dderr tạo server cung cấp vân tay, hoặc tạo vân cho các phần mềm Multibrowser, Xlogin, VNlogin, MMO ANTIDETECT BROWSER, Genlogin, Kikilogin ...
+# Dữ liệu vân tay dành cho trình duyệt Orbita-Gologin
+Đầy đủ vân tay của toàn bộ các hệ điều hành Windowns, Macos, Linux, Android giúp bạn tạo profile cho trình duyệt Orbita của Gologin. Có thể sử dụng đẻw tạo server cung cấp vân tay, hoặc tạo vân cho trình duyệt các phần mềm Multibrowser, Xlogin, VNlogin, MMO ANTIDETECT BROWSER, Genlogin, Kikilogin ...
 
 Đầy dủ thông tin từ UA, webGL, Front ... giúp bạn không cần dùng server của họ.
 
