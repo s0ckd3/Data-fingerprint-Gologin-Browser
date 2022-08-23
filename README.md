@@ -715,10 +715,13 @@
     }
 ```
 # Cam Kết
-> Mỗi loại trình duyệt có đầy đủ thông tin, thông số vân tay chính xác để bạn thêm vào vân tay.
-> Số lượng: Khoảng 10.000 loại vân tay cho mỗi hệ điều hành
-> Định Dạng: File Json
-> Khối lượng: Tối đa 500mb
+1, Mỗi loại trình duyệt có đầy đủ thông tin, thông số vân tay chính xác để bạn thêm vào vân tay.
 
-#Liên hệ mua
+2, Số lượng: Khoảng 10.000 loại vân tay cho mỗi hệ điều hành
+
+3, Định Dạng: File Json
+
+4, Khối lượng: Tối đa 500mb
+
+# Liên hệ mua
 Tele: [https://t.me/Shanghaz](https://t.me/Shanghaz)
