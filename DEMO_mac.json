@@ -1,0 +1,902 @@
+{
+    "Gologin": {
+        "name": "Khương Hữu Anh Khôi",
+        "notes": "s0ckd",
+        "browserType": "chrome",
+        "canBeRunning": true,
+        "os": "mac",
+        "startUrl": "https://google.com",
+        "googleServicesEnabled": false,
+        "lockEnabled": false,
+        "debugMode": false,
+        "navigator": {
+            "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36",
+            "resolution": "1440x900",
+            "language": "en-GB,en-US;q=0.9,en;q=0.8,zh-CN;q=0.7,zh;q=0.6",
+            "platform": "MacIntel",
+            "hardwareConcurrency": 2,
+            "doNotTrack": false,
+            "deviceMemory": 2,
+            "maxTouchPoints": 0
+        },
+        "storage": {
+            "local": true,
+            "extensions": true,
+            "bookmarks": true,
+            "history": true,
+            "passwords": true,
+            "session": true
+        },
+        "proxyEnabled": false,
+        "autoProxyServer": "",
+        "autoProxyUsername": "",
+        "autoProxyPassword": "",
+        "proxy": {
+            "id": null,
+            "mode": "none",
+            "host": null,
+            "port": 80,
+            "username": null,
+            "password": null,
+            "changeIpUrl": null,
+            "autoProxyRegion": "us",
+            "torProxyRegion": "us"
+        },
+        "dns": "",
+        "plugins": {
+            "enableVulnerable": true,
+            "enableFlash": true
+        },
+        "timezone": {
+            "enabled": true,
+            "fillBasedOnIp": true,
+            "timezone": null
+        },
+        "geolocation": {
+            "mode": "prompt",
+            "enabled": true,
+            "customize": true,
+            "fillBasedOnIp": true,
+            "latitude": 0,
+            "longitude": 0,
+            "accuracy": 10
+        },
+        "audioContext": {
+            "mode": "noise",
+            "noise": 6.786411550705e-8
+        },
+        "canvas": {
+            "mode": "noise",
+            "noise": 0.72392782
+        },
+        "fonts": {
+            "enableMasking": true,
+            "enableDomRect": true,
+            "families": [
+                "American Typewriter",
+                "Amiri",
+                "Apple Braille",
+                "Apple Chancery",
+                "Apple Color Emoji",
+                "Apple SD Gothic Neo",
+                "Apple Symbols",
+                "AppleGothic",
+                "Arial CE",
+                "Arial Cyr",
+                "Arial Greek",
+                "Arial MT",
+                "Arial Narrow",
+                "Arial Rounded MT Bold",
+                "Arial Unicode MS",
+                "Avenir",
+                "Avenir Next",
+                "Avenir Next Condensed",
+                "Ayuthaya",
+                "Baghdad",
+                "Bangla MN",
+                "Baskerville",
+                "Baskerville Old Face",
+                "Beirut",
+                "Big Caslon",
+                "Bodoni 72",
+                "Bodoni 72 Oldstyle",
+                "Bodoni MT",
+                "Bodoni MT Black",
+                "Bodoni MT Condensed",
+                "Carrois Gothic SC",
+                "Chalkboard",
+                "Chalkboard SE",
+                "Charter BT",
+                "Charter Bd BT",
+                "Collapse",
+                "Copperplate",
+                "Corsiva Hebrew",
+                "Courier",
+                "Courier New",
+                "Courier New Baltic",
+                "Courier New Greek",
+                "Courier New TUR",
+                "DIN Condensed",
+                "Damascus",
+                "Dancing Script",
+                "David",
+                "DejaVu Sans",
+                "DejaVu Sans Condensed",
+                "DejaVu Sans Light",
+                "DejaVu Sans Mono",
+                "DejaVu Serif",
+                "DejaVu Serif Condensed",
+                "Devanagari MT",
+                "Devanagari Sangam MN",
+                "Didot",
+                "Diwan Kufi",
+                "Diwan Thuluth",
+                "Droid Sans",
+                "Droid Sans Mono",
+                "Euphemia",
+                "Euphemia UCAS",
+                "Farah",
+                "Farisi",
+                "Futura",
+                "Futura Bk BT",
+                "Futura Lt BT",
+                "Futura Md BT",
+                "FuturaBlack BT",
+                "Geeza Pro",
+                "Geneva",
+                "Georgia",
+                "Gill Sans",
+                "Gill Sans MT",
+                "Gill Sans MT Condensed",
+                "Gill Sans MT Ext Condensed Bold",
+                "Gill Sans Ultra Bold",
+                "Gill Sans Ultra Bold Condensed",
+                "Gujarati MT",
+                "Gujarati Sangam MN",
+                "Gurmukhi MN",
+                "Gurmukhi MT",
+                "Gurmukhi Sangam MN",
+                "Heiti SC",
+                "Heiti TC",
+                "Helvetica",
+                "Helvetica Neue",
+                "Herculanum",
+                "Hiragino Kaku Gothic Pro",
+                "Hiragino Kaku Gothic ProN",
+                "Hiragino Kaku Gothic ProN",
+                "Hiragino Kaku Gothic StdN",
+                "Hiragino Maru Pro",
+                "Hiragino Maru ProN",
+                "Hiragino Mincho Pro",
+                "Hiragino Mincho ProN",
+                "Hiragino Sans",
+                "Hiragino Sans GB",
+                "Hoefler Text",
+                "ITF Devanagari",
+                "ITF Devanagari, Marathi",
+                "Impact",
+                "InaiMathi",
+                "Iowan Old Style",
+                "Kailasa",
+                "Kannada MN",
+                "Kannada Sangam MN",
+                "Kefa",
+                "Khmer MN",
+                "Khmer Sangam MN",
+                "Kohinoor Bangla",
+                "Kohinoor Devanagari",
+                "Kohinoor Telugu",
+                "Krungthep",
+                "Lao MN",
+                "Lao Sangam MN",
+                "Lao UI",
+                "Liberation Mono",
+                "Liberation Sans",
+                "Liberation Sans Narrow",
+                "Liberation Serif",
+                "Luminari",
+                "Malayalam MN",
+                "Malayalam Sangam MN",
+                "Marker Felt",
+                "Menlo",
+                "Microsoft Sans Serif",
+                "Mishafi",
+                "Monaco",
+                "Mshtakan",
+                "Muanmar MN",
+                "Muanmar Sangam MN",
+                "New Peninim MT",
+                "Noto Kufi Arabic",
+                "Noto Nastaliq Urdu",
+                "Optima",
+                "PT Mono",
+                "PT Sans",
+                "PT Sans Narrow",
+                "PT Serif",
+                "PT Serif Caption",
+                "Palatino",
+                "Papyrus",
+                "Phosphate",
+                "PingFang HK",
+                "PingFang SC",
+                "PingFang TC",
+                "Plantagenet Cherokee",
+                "Roboto",
+                "Roboto Black",
+                "Roboto Medium",
+                "Roboto Thin",
+                "Rockwell",
+                "STIXGeneral",
+                "STIXIntegralsSm",
+                "STIXIntegralsUp",
+                "STIXIntegralsUpD",
+                "STIXIntegralsUpSm",
+                "STIXNoneUnicode",
+                "STIXSizeFiveSym",
+                "STIXSizeFourSym",
+                "STIXSizeOneSym",
+                "STIXSizeThreeSym",
+                "STIXSizeTwoSym",
+                "STIXVariants",
+                "STSong",
+                "Sana",
+                "Sathu",
+                "Savoye LET",
+                "Seravek",
+                "Silom",
+                "Sinhala Sangam MN",
+                "Skia",
+                "Snell Roundhand",
+                "Songti TC",
+                "Source Code Pro",
+                "Source Code Pro Black",
+                "Source Code Pro Extra Light",
+                "Source Code Pro Light",
+                "Source Code Pro Medium",
+                "Source Code Pro Semibold",
+                "Source Sans Pro",
+                "Source Sans Pro Black",
+                "Source Sans Pro Extra Light",
+                "Source Sans Pro Light",
+                "Source Serif Pro",
+                "Source Serif Pro Black",
+                "Source Serif Pro Extra Light",
+                "Source Serif Pro Light",
+                "Source Serif Pro Semibold",
+                "Sukhumvit Set",
+                "Symbol",
+                "Tahoma",
+                "Tamil MN",
+                "Tamil Sangam MN",
+                "Telugu MN",
+                "Times New Roman",
+                "Times New Roman Baltic",
+                "Times New Roman CE",
+                "Times New Roman Cyr",
+                "Times New Roman Greek",
+                "Trattatello",
+                "Trebuchet MS",
+                "Verdana",
+                "Waseem",
+                "Webdings",
+                "Wingdings 2",
+                "Wingdings 3",
+                "Zapfino"
+            ]
+        },
+        "mediaDevices": {
+            "enableMasking": true,
+            "uid": "1d022ac7019542debc4a2b5bc63f4cfc63a61a8bb2cf4397a14ee8a069",
+            "videoInputs": 1,
+            "audioInputs": 1,
+            "audioOutputs": 1
+        },
+        "webRTC": {
+            "mode": "alerted",
+            "enabled": true,
+            "customize": true,
+            "localIpMasking": false,
+            "fillBasedOnIp": true,
+            "publicIp": "",
+            "localIps": []
+        },
+        "webGL": {
+            "mode": "off",
+            "getClientRectsNoise": 2.25293,
+            "noise": 100.207
+        },
+        "clientRects": {
+            "mode": "noise",
+            "noise": 2.25293
+        },
+        "webGLMetadata": {
+            "mode": "mask",
+            "vendor": "Google Inc. (Intel Inc.)",
+            "renderer": "ANGLE (Intel Inc., Intel(R) Iris(TM) Plus Graphics 640, OpenGL 4.1)"
+        },
+        "webglParams": {
+            "supportedFunctions": [
+                {
+                    "name": "beginQuery",
+                    "supported": true
+                },
+                {
+                    "name": "beginTransformFeedback",
+                    "supported": true
+                },
+                {
+                    "name": "bindBufferBase",
+                    "supported": true
+                },
+                {
+                    "name": "bindBufferRange",
+                    "supported": true
+                },
+                {
+                    "name": "bindSampler",
+                    "supported": true
+                },
+                {
+                    "name": "bindTransformFeedback",
+                    "supported": true
+                },
+                {
+                    "name": "bindVertexArray",
+                    "supported": true
+                },
+                {
+                    "name": "blitFramebuffer",
+                    "supported": true
+                },
+                {
+                    "name": "clearBufferfi",
+                    "supported": true
+                },
+                {
+                    "name": "clearBufferfv",
+                    "supported": true
+                },
+                {
+                    "name": "clearBufferiv",
+                    "supported": true
+                },
+                {
+                    "name": "clearBufferuiv",
+                    "supported": true
+                },
+                {
+                    "name": "clientWaitSync",
+                    "supported": true
+                },
+                {
+                    "name": "compressedTexImage3D",
+                    "supported": true
+                },
+                {
+                    "name": "compressedTexSubImage3D",
+                    "supported": true
+                },
+                {
+                    "name": "copyBufferSubData",
+                    "supported": true
+                },
+                {
+                    "name": "copyTexSubImage3D",
+                    "supported": true
+                },
+                {
+                    "name": "createQuery",
+                    "supported": true
+                },
+                {
+                    "name": "createSampler",
+                    "supported": true
+                },
+                {
+                    "name": "createTransformFeedback",
+                    "supported": true
+                },
+                {
+                    "name": "createVertexArray",
+                    "supported": true
+                },
+                {
+                    "name": "deleteQuery",
+                    "supported": true
+                },
+                {
+                    "name": "deleteSampler",
+                    "supported": true
+                },
+                {
+                    "name": "deleteSync",
+                    "supported": true
+                },
+                {
+                    "name": "deleteTransformFeedback",
+                    "supported": true
+                },
+                {
+                    "name": "deleteVertexArray",
+                    "supported": true
+                },
+                {
+                    "name": "drawArraysInstanced",
+                    "supported": true
+                },
+                {
+                    "name": "drawBuffers",
+                    "supported": true
+                },
+                {
+                    "name": "drawElementsInstanced",
+                    "supported": true
+                },
+                {
+                    "name": "drawRangeElements",
+                    "supported": true
+                },
+                {
+                    "name": "endQuery",
+                    "supported": true
+                },
+                {
+                    "name": "endTransformFeedback",
+                    "supported": true
+                },
+                {
+                    "name": "fenceSync",
+                    "supported": true
+                },
+                {
+                    "name": "framebufferTextureLayer",
+                    "supported": true
+                },
+                {
+                    "name": "getActiveUniformBlockName",
+                    "supported": true
+                },
+                {
+                    "name": "getActiveUniformBlockParameter",
+                    "supported": true
+                },
+                {
+                    "name": "getActiveUniforms",
+                    "supported": true
+                },
+                {
+                    "name": "getBufferSubData",
+                    "supported": true
+                },
+                {
+                    "name": "getFragDataLocation",
+                    "supported": true
+                },
+                {
+                    "name": "getIndexedParameter",
+                    "supported": true
+                },
+                {
+                    "name": "getInternalformatParameter",
+                    "supported": true
+                },
+                {
+                    "name": "getQuery",
+                    "supported": true
+                },
+                {
+                    "name": "getQueryParameter",
+                    "supported": true
+                },
+                {
+                    "name": "getSamplerParameter",
+                    "supported": true
+                },
+                {
+                    "name": "getSyncParameter",
+                    "supported": true
+                },
+                {
+                    "name": "getTransformFeedbackVarying",
+                    "supported": true
+                },
+                {
+                    "name": "getUniformBlockIndex",
+                    "supported": true
+                },
+                {
+                    "name": "getUniformIndices",
+                    "supported": true
+                },
+                {
+                    "name": "invalidateFramebuffer",
+                    "supported": true
+                },
+                {
+                    "name": "invalidateSubFramebuffer",
+                    "supported": true
+                },
+                {
+                    "name": "isQuery",
+                    "supported": true
+                },
+                {
+                    "name": "isSampler",
+                    "supported": true
+                },
+                {
+                    "name": "isSync",
+                    "supported": true
+                },
+                {
+                    "name": "isTransformFeedback",
+                    "supported": true
+                },
+                {
+                    "name": "isVertexArray",
+                    "supported": true
+                },
+                {
+                    "name": "pauseTransformFeedback",
+                    "supported": true
+                },
+                {
+                    "name": "readBuffer",
+                    "supported": true
+                },
+                {
+                    "name": "renderbufferStorageMultisample",
+                    "supported": true
+                },
+                {
+                    "name": "resumeTransformFeedback",
+                    "supported": true
+                },
+                {
+                    "name": "samplerParameterf",
+                    "supported": true
+                },
+                {
+                    "name": "samplerParameteri",
+                    "supported": true
+                },
+                {
+                    "name": "texImage3D",
+                    "supported": true
+                },
+                {
+                    "name": "texStorage2D",
+                    "supported": true
+                },
+                {
+                    "name": "texStorage3D",
+                    "supported": true
+                },
+                {
+                    "name": "texSubImage3D",
+                    "supported": true
+                },
+                {
+                    "name": "transformFeedbackVaryings",
+                    "supported": true
+                },
+                {
+                    "name": "uniform1ui",
+                    "supported": true
+                },
+                {
+                    "name": "uniform1uiv",
+                    "supported": true
+                },
+                {
+                    "name": "uniform2ui",
+                    "supported": true
+                },
+                {
+                    "name": "uniform2uiv",
+                    "supported": true
+                },
+                {
+                    "name": "uniform3ui",
+                    "supported": true
+                },
+                {
+                    "name": "uniform3uiv",
+                    "supported": true
+                },
+                {
+                    "name": "uniform4ui",
+                    "supported": true
+                },
+                {
+                    "name": "uniform4uiv",
+                    "supported": true
+                },
+                {
+                    "name": "uniformBlockBinding",
+                    "supported": true
+                },
+                {
+                    "name": "uniformMatrix2x3fv",
+                    "supported": true
+                },
+                {
+                    "name": "uniformMatrix2x4fv",
+                    "supported": true
+                },
+                {
+                    "name": "uniformMatrix3x2fv",
+                    "supported": true
+                },
+                {
+                    "name": "uniformMatrix3x4fv",
+                    "supported": true
+                },
+                {
+                    "name": "uniformMatrix4x2fv",
+                    "supported": true
+                },
+                {
+                    "name": "uniformMatrix4x3fv",
+                    "supported": true
+                },
+                {
+                    "name": "vertexAttribDivisor",
+                    "supported": true
+                },
+                {
+                    "name": "vertexAttribI4i",
+                    "supported": true
+                },
+                {
+                    "name": "vertexAttribI4iv",
+                    "supported": true
+                },
+                {
+                    "name": "vertexAttribI4ui",
+                    "supported": true
+                },
+                {
+                    "name": "vertexAttribI4uiv",
+                    "supported": true
+                },
+                {
+                    "name": "vertexAttribIPointer",
+                    "supported": true
+                },
+                {
+                    "name": "waitSync",
+                    "supported": true
+                }
+            ],
+            "glParamValues": [
+                {
+                    "name": "ALIASED_LINE_WIDTH_RANGE",
+                    "value": {
+                        "0": 1,
+                        "1": 1
+                    }
+                },
+                {
+                    "name": "ALIASED_POINT_SIZE_RANGE",
+                    "value": {
+                        "0": 1,
+                        "1": 255.875
+                    }
+                },
+                {
+                    "name": [
+                        "DEPTH_BITS",
+                        "STENCIL_BITS"
+                    ],
+                    "value": "n/a"
+                },
+                {
+                    "name": "MAX_3D_TEXTURE_SIZE",
+                    "value": 2048
+                },
+                {
+                    "name": "MAX_ARRAY_TEXTURE_LAYERS",
+                    "value": 2048
+                },
+                {
+                    "name": "MAX_COLOR_ATTACHMENTS",
+                    "value": 8
+                },
+                {
+                    "name": "MAX_COMBINED_FRAGMENT_UNIFORM_COMPONENTS",
+                    "value": 249856
+                },
+                {
+                    "name": "MAX_COMBINED_TEXTURE_IMAGE_UNITS",
+                    "value": 32
+                },
+                {
+                    "name": "MAX_COMBINED_UNIFORM_BLOCKS",
+                    "value": 30
+                },
+                {
+                    "name": "MAX_COMBINED_VERTEX_UNIFORM_COMPONENTS",
+                    "value": 249856
+                },
+                {
+                    "name": "MAX_CUBE_MAP_TEXTURE_SIZE",
+                    "value": 16384
+                },
+                {
+                    "name": "MAX_DRAW_BUFFERS",
+                    "value": 8
+                },
+                {
+                    "name": "MAX_FRAGMENT_INPUT_COMPONENTS",
+                    "value": 128
+                },
+                {
+                    "name": "MAX_FRAGMENT_UNIFORM_BLOCKS",
+                    "value": 15
+                },
+                {
+                    "name": "MAX_FRAGMENT_UNIFORM_COMPONENTS",
+                    "value": 4096
+                },
+                {
+                    "name": "MAX_FRAGMENT_UNIFORM_VECTORS",
+                    "value": 1024
+                },
+                {
+                    "name": "MAX_PROGRAM_TEXEL_OFFSET",
+                    "value": 7
+                },
+                {
+                    "name": "MAX_RENDERBUFFER_SIZE",
+                    "value": 16384
+                },
+                {
+                    "name": "MAX_SAMPLES",
+                    "value": 4
+                },
+                {
+                    "name": "MAX_TEXTURE_IMAGE_UNITS",
+                    "value": 16
+                },
+                {
+                    "name": "MAX_TEXTURE_LOD_BIAS",
+                    "value": 16
+                },
+                {
+                    "name": "MAX_TEXTURE_SIZE",
+                    "value": 16384
+                },
+                {
+                    "name": "MAX_TRANSFORM_FEEDBACK_INTERLEAVED_COMPONENTS",
+                    "value": 64
+                },
+                {
+                    "name": "MAX_TRANSFORM_FEEDBACK_SEPARATE_ATTRIBS",
+                    "value": 4
+                },
+                {
+                    "name": "MAX_TRANSFORM_FEEDBACK_SEPARATE_COMPONENTS",
+                    "value": 4
+                },
+                {
+                    "name": "MAX_UNIFORM_BLOCK_SIZE",
+                    "value": 65536
+                },
+                {
+                    "name": "MAX_UNIFORM_BUFFER_BINDINGS",
+                    "value": 72
+                },
+                {
+                    "name": "MAX_VARYING_COMPONENTS",
+                    "value": 60
+                },
+                {
+                    "name": "MAX_VARYING_VECTORS",
+                    "value": 15
+                },
+                {
+                    "name": "MAX_VERTEX_ATTRIBS",
+                    "value": 16
+                },
+                {
+                    "name": "MAX_VERTEX_OUTPUT_COMPONENTS",
+                    "value": 128
+                },
+                {
+                    "name": "MAX_VERTEX_TEXTURE_IMAGE_UNITS",
+                    "value": 16
+                },
+                {
+                    "name": "MAX_VERTEX_UNIFORM_BLOCKS",
+                    "value": 15
+                },
+                {
+                    "name": "MAX_VERTEX_UNIFORM_COMPONENTS",
+                    "value": 4096
+                },
+                {
+                    "name": "MAX_VERTEX_UNIFORM_VECTORS",
+                    "value": 1024
+                },
+                {
+                    "name": "MAX_VIEWPORT_DIMS",
+                    "value": {
+                        "0": 16384,
+                        "1": 16384
+                    }
+                },
+                {
+                    "name": "MIN_PROGRAM_TEXEL_OFFSET",
+                    "value": -8
+                },
+                {
+                    "name": [
+                        "RED_BITS",
+                        "GREEN_BITS",
+                        "BLUE_BITS",
+                        "ALPHA_BITS"
+                    ],
+                    "value": "n/a"
+                },
+                {
+                    "name": "RENDERER",
+                    "value": "WebKit WebGL"
+                },
+                {
+                    "name": "SHADING_LANGUAGE_VERSION",
+                    "value": "WebGL GLSL ES 3.00 (OpenGL ES GLSL ES 3.0 Chromium)"
+                },
+                {
+                    "name": "UNIFORM_BUFFER_OFFSET_ALIGNMENT",
+                    "value": 256
+                },
+                {
+                    "name": "VENDOR",
+                    "value": "WebKit"
+                },
+                {
+                    "name": "VERSION",
+                    "value": "WebGL 2.0 (OpenGL ES 3.0 Chromium)"
+                }
+            ],
+            "extensions": [
+                "EXT_color_buffer_float",
+                "EXT_color_buffer_half_float",
+                "EXT_disjoint_timer_query_webgl2",
+                "EXT_float_blend",
+                "EXT_texture_compression_rgtc",
+                "EXT_texture_filter_anisotropic",
+                "EXT_texture_norm16",
+                "KHR_parallel_shader_compile",
+                "OES_draw_buffers_indexed",
+                "OES_texture_float_linear",
+                "WEBGL_compressed_texture_s3tc",
+                "WEBGL_compressed_texture_s3tc_srgb",
+                "WEBGL_debug_renderer_info",
+                "WEBGL_debug_shaders",
+                "WEBGL_lose_context",
+                "WEBGL_multi_draw"
+            ],
+            "glCanvas": "webgl2",
+            "antialiasing": true,
+            "textureMaxAnisotropyExt": 16,
+            "shaiderPrecisionFormat": "highp/highp"
+        },
+        "extensions": {
+            "enabled": true,
+            "preloadCustom": true,
+            "names": []
+        },
+        "s3Path": "zero_profile.zip",
+        "s3Date": "",
+        "devicePixelRatio": 1,
+        "owner": "63141583aa162d73ef4427e0",
+        "checkCookies": false,
+        "chromeExtensions": [],
+        "userChromeExtensions": [],
+        "cookies": {
+            "checkCookies": false
+        }
+    }
+}

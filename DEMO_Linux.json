@@ -1,0 +1,798 @@
+{
+    "Gologin": {
+        "name": "Hàn Đức Hùng",
+        "notes": "s0ckd",
+        "browserType": "chrome",
+        "canBeRunning": true,
+        "os": "lin",
+        "startUrl": "https://google.com",
+        "googleServicesEnabled": false,
+        "lockEnabled": false,
+        "debugMode": false,
+        "navigator": {
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36",
+            "resolution": "1920x980",
+            "language": "en-GB,en-US;q=0.9,en;q=0.8,it;q=0.7,hi;q=0.6,fr;q=0.5",
+            "platform": "Linux x86_64",
+            "hardwareConcurrency": 2,
+            "doNotTrack": false,
+            "deviceMemory": 2,
+            "maxTouchPoints": 0
+        },
+        "storage": {
+            "local": true,
+            "extensions": true,
+            "bookmarks": true,
+            "history": true,
+            "passwords": true,
+            "session": true
+        },
+        "proxyEnabled": false,
+        "autoProxyServer": "",
+        "autoProxyUsername": "",
+        "autoProxyPassword": "",
+        "proxy": {
+            "id": null,
+            "mode": "none",
+            "host": null,
+            "port": 80,
+            "username": null,
+            "password": null,
+            "changeIpUrl": null,
+            "autoProxyRegion": "us",
+            "torProxyRegion": "us"
+        },
+        "dns": "",
+        "plugins": {
+            "enableVulnerable": true,
+            "enableFlash": true
+        },
+        "timezone": {
+            "enabled": true,
+            "fillBasedOnIp": true,
+            "timezone": null
+        },
+        "geolocation": {
+            "mode": "prompt",
+            "enabled": true,
+            "customize": true,
+            "fillBasedOnIp": true,
+            "latitude": 0,
+            "longitude": 0,
+            "accuracy": 10
+        },
+        "audioContext": {
+            "mode": "noise",
+            "noise": 9.367663557662e-8
+        },
+        "canvas": {
+            "mode": "noise",
+            "noise": 0.70479533
+        },
+        "fonts": {
+            "enableMasking": true,
+            "enableDomRect": true,
+            "families": [
+                "AMGDT",
+                "Abyssinica Sil Regular",
+                "Alef",
+                "AnjaliOldLipi",
+                "Caladea",
+                "Chandas",
+                "Chilanka",
+                "Dancing Script",
+                "David",
+                "David Libre",
+                "DejaVu Sans Mono",
+                "DejaVu Serif Condensed",
+                "Droid Sans",
+                "Droid Sans Mono",
+                "Dyuthi",
+                "Frank Ruehl",
+                "Frank Ruehl Libre Light",
+                "FreeSans",
+                "Gargi",
+                "Gubbi",
+                "KacstLetter",
+                "KacstNaskh",
+                "KacstOffice",
+                "KacstTitlel",
+                "Kalapi",
+                "Kalimati",
+                "Karumbi",
+                "Khmer OS",
+                "Khmer UI",
+                "Kinnari",
+                "Liberation Mono",
+                "Liberation Sans Narrow",
+                "Liberation Serif",
+                "Lohit Devanagari",
+                "Lohit Telugu",
+                "Loma",
+                "Manjari",
+                "Meera",
+                "Mukti Narrow",
+                "Nakula",
+                "Navuli",
+                "Nimbus Roman",
+                "Nimbus Sans",
+                "Noto Sans",
+                "Noto Sans CJK HK",
+                "Noto Sans CJK JP",
+                "Noto Sans CJK KR",
+                "Noto Sans CJK TC",
+                "Noto Sans Lisu",
+                "Noto Sans Mono CJK HK",
+                "Noto Sans Mono CJK JP",
+                "Noto Sans Mono CJK KR",
+                "Noto Sans Mono CJK SC",
+                "Noto Serif",
+                "Noto Serif CJK JP",
+                "Noto Serif Hebrew",
+                "Noto Serif Italic",
+                "Noto Serif Lao",
+                "OpenSymbol",
+                "Padauk",
+                "Padauk Book",
+                "Pothana2000",
+                "Purisa",
+                "Rekha",
+                "Roboto",
+                "Roboto Black",
+                "Rubik",
+                "Rubik Black",
+                "Rubik Light",
+                "Rubik Medium",
+                "Saab",
+                "Samanata",
+                "Samyak Devanagari",
+                "Samyak Gujarati",
+                "Samyak Malayalam",
+                "Samyak Tamil",
+                "Sarai",
+                "Source Code Pro",
+                "Source Code Pro Black",
+                "Source Code Pro Extra Light",
+                "Source Code Pro Light",
+                "Source Code Pro Medium",
+                "Source Code Pro Semibold",
+                "Source Sans Pro",
+                "Source Sans Pro Black",
+                "Source Sans Pro Extra Light",
+                "Source Sans Pro Light",
+                "Source Sans Pro Semibold",
+                "Source Serif Pro",
+                "Source Serif Pro Black",
+                "Source Serif Pro Light",
+                "Source Serif Pro Semibold",
+                "Suruma",
+                "Tlwg Mono",
+                "Tlwg Typist",
+                "URW Gothic L",
+                "Ubuntu",
+                "Ubuntu",
+                "Vemana2000",
+                "Waree"
+            ]
+        },
+        "mediaDevices": {
+            "enableMasking": true,
+            "uid": "47096001f5f5447b90faf300af6857f4553aad24f86a4bbca4c062bf41",
+            "videoInputs": 1,
+            "audioInputs": 1,
+            "audioOutputs": 1
+        },
+        "webRTC": {
+            "mode": "alerted",
+            "enabled": true,
+            "customize": true,
+            "localIpMasking": false,
+            "fillBasedOnIp": true,
+            "publicIp": "",
+            "localIps": []
+        },
+        "webGL": {
+            "mode": "off",
+            "getClientRectsNoise": 5.52969,
+            "noise": 14.962
+        },
+        "clientRects": {
+            "mode": "noise",
+            "noise": 5.52969
+        },
+        "webGLMetadata": {
+            "mode": "mask",
+            "vendor": "Google Inc. (Intel)",
+            "renderer": "ANGLE (Intel, Mesa Intel(R) HD Graphics 630 (KBL GT2), OpenGL 4.6)"
+        },
+        "webglParams": {
+            "supportedFunctions": [
+                {
+                    "name": "beginQuery",
+                    "supported": true
+                },
+                {
+                    "name": "beginTransformFeedback",
+                    "supported": true
+                },
+                {
+                    "name": "bindBufferBase",
+                    "supported": true
+                },
+                {
+                    "name": "bindBufferRange",
+                    "supported": true
+                },
+                {
+                    "name": "bindSampler",
+                    "supported": true
+                },
+                {
+                    "name": "bindTransformFeedback",
+                    "supported": true
+                },
+                {
+                    "name": "bindVertexArray",
+                    "supported": true
+                },
+                {
+                    "name": "blitFramebuffer",
+                    "supported": true
+                },
+                {
+                    "name": "clearBufferfi",
+                    "supported": true
+                },
+                {
+                    "name": "clearBufferfv",
+                    "supported": true
+                },
+                {
+                    "name": "clearBufferiv",
+                    "supported": true
+                },
+                {
+                    "name": "clearBufferuiv",
+                    "supported": true
+                },
+                {
+                    "name": "clientWaitSync",
+                    "supported": true
+                },
+                {
+                    "name": "compressedTexImage3D",
+                    "supported": true
+                },
+                {
+                    "name": "compressedTexSubImage3D",
+                    "supported": true
+                },
+                {
+                    "name": "copyBufferSubData",
+                    "supported": true
+                },
+                {
+                    "name": "copyTexSubImage3D",
+                    "supported": true
+                },
+                {
+                    "name": "createQuery",
+                    "supported": true
+                },
+                {
+                    "name": "createSampler",
+                    "supported": true
+                },
+                {
+                    "name": "createTransformFeedback",
+                    "supported": true
+                },
+                {
+                    "name": "createVertexArray",
+                    "supported": true
+                },
+                {
+                    "name": "deleteQuery",
+                    "supported": true
+                },
+                {
+                    "name": "deleteSampler",
+                    "supported": true
+                },
+                {
+                    "name": "deleteSync",
+                    "supported": true
+                },
+                {
+                    "name": "deleteTransformFeedback",
+                    "supported": true
+                },
+                {
+                    "name": "deleteVertexArray",
+                    "supported": true
+                },
+                {
+                    "name": "drawArraysInstanced",
+                    "supported": true
+                },
+                {
+                    "name": "drawBuffers",
+                    "supported": true
+                },
+                {
+                    "name": "drawElementsInstanced",
+                    "supported": true
+                },
+                {
+                    "name": "drawRangeElements",
+                    "supported": true
+                },
+                {
+                    "name": "endQuery",
+                    "supported": true
+                },
+                {
+                    "name": "endTransformFeedback",
+                    "supported": true
+                },
+                {
+                    "name": "fenceSync",
+                    "supported": true
+                },
+                {
+                    "name": "framebufferTextureLayer",
+                    "supported": true
+                },
+                {
+                    "name": "getActiveUniformBlockName",
+                    "supported": true
+                },
+                {
+                    "name": "getActiveUniformBlockParameter",
+                    "supported": true
+                },
+                {
+                    "name": "getActiveUniforms",
+                    "supported": true
+                },
+                {
+                    "name": "getBufferSubData",
+                    "supported": true
+                },
+                {
+                    "name": "getFragDataLocation",
+                    "supported": true
+                },
+                {
+                    "name": "getIndexedParameter",
+                    "supported": true
+                },
+                {
+                    "name": "getInternalformatParameter",
+                    "supported": true
+                },
+                {
+                    "name": "getQuery",
+                    "supported": true
+                },
+                {
+                    "name": "getQueryParameter",
+                    "supported": true
+                },
+                {
+                    "name": "getSamplerParameter",
+                    "supported": true
+                },
+                {
+                    "name": "getSyncParameter",
+                    "supported": true
+                },
+                {
+                    "name": "getTransformFeedbackVarying",
+                    "supported": true
+                },
+                {
+                    "name": "getUniformBlockIndex",
+                    "supported": true
+                },
+                {
+                    "name": "getUniformIndices",
+                    "supported": true
+                },
+                {
+                    "name": "invalidateFramebuffer",
+                    "supported": true
+                },
+                {
+                    "name": "invalidateSubFramebuffer",
+                    "supported": true
+                },
+                {
+                    "name": "isQuery",
+                    "supported": true
+                },
+                {
+                    "name": "isSampler",
+                    "supported": true
+                },
+                {
+                    "name": "isSync",
+                    "supported": true
+                },
+                {
+                    "name": "isTransformFeedback",
+                    "supported": true
+                },
+                {
+                    "name": "isVertexArray",
+                    "supported": true
+                },
+                {
+                    "name": "pauseTransformFeedback",
+                    "supported": true
+                },
+                {
+                    "name": "readBuffer",
+                    "supported": true
+                },
+                {
+                    "name": "renderbufferStorageMultisample",
+                    "supported": true
+                },
+                {
+                    "name": "resumeTransformFeedback",
+                    "supported": true
+                },
+                {
+                    "name": "samplerParameterf",
+                    "supported": true
+                },
+                {
+                    "name": "samplerParameteri",
+                    "supported": true
+                },
+                {
+                    "name": "texImage3D",
+                    "supported": true
+                },
+                {
+                    "name": "texStorage2D",
+                    "supported": true
+                },
+                {
+                    "name": "texStorage3D",
+                    "supported": true
+                },
+                {
+                    "name": "texSubImage3D",
+                    "supported": true
+                },
+                {
+                    "name": "transformFeedbackVaryings",
+                    "supported": true
+                },
+                {
+                    "name": "uniform1ui",
+                    "supported": true
+                },
+                {
+                    "name": "uniform1uiv",
+                    "supported": true
+                },
+                {
+                    "name": "uniform2ui",
+                    "supported": true
+                },
+                {
+                    "name": "uniform2uiv",
+                    "supported": true
+                },
+                {
+                    "name": "uniform3ui",
+                    "supported": true
+                },
+                {
+                    "name": "uniform3uiv",
+                    "supported": true
+                },
+                {
+                    "name": "uniform4ui",
+                    "supported": true
+                },
+                {
+                    "name": "uniform4uiv",
+                    "supported": true
+                },
+                {
+                    "name": "uniformBlockBinding",
+                    "supported": true
+                },
+                {
+                    "name": "uniformMatrix2x3fv",
+                    "supported": true
+                },
+                {
+                    "name": "uniformMatrix2x4fv",
+                    "supported": true
+                },
+                {
+                    "name": "uniformMatrix3x2fv",
+                    "supported": true
+                },
+                {
+                    "name": "uniformMatrix3x4fv",
+                    "supported": true
+                },
+                {
+                    "name": "uniformMatrix4x2fv",
+                    "supported": true
+                },
+                {
+                    "name": "uniformMatrix4x3fv",
+                    "supported": true
+                },
+                {
+                    "name": "vertexAttribDivisor",
+                    "supported": true
+                },
+                {
+                    "name": "vertexAttribI4i",
+                    "supported": true
+                },
+                {
+                    "name": "vertexAttribI4iv",
+                    "supported": true
+                },
+                {
+                    "name": "vertexAttribI4ui",
+                    "supported": true
+                },
+                {
+                    "name": "vertexAttribI4uiv",
+                    "supported": true
+                },
+                {
+                    "name": "vertexAttribIPointer",
+                    "supported": true
+                },
+                {
+                    "name": "waitSync",
+                    "supported": true
+                }
+            ],
+            "glParamValues": [
+                {
+                    "name": "ALIASED_LINE_WIDTH_RANGE",
+                    "value": {
+                        "0": 1,
+                        "1": 7.375
+                    }
+                },
+                {
+                    "name": "ALIASED_POINT_SIZE_RANGE",
+                    "value": {
+                        "0": 1,
+                        "1": 255
+                    }
+                },
+                {
+                    "name": [
+                        "DEPTH_BITS",
+                        "STENCIL_BITS"
+                    ],
+                    "value": "n/a"
+                },
+                {
+                    "name": "MAX_3D_TEXTURE_SIZE",
+                    "value": 2048
+                },
+                {
+                    "name": "MAX_ARRAY_TEXTURE_LAYERS",
+                    "value": 2048
+                },
+                {
+                    "name": "MAX_COLOR_ATTACHMENTS",
+                    "value": 8
+                },
+                {
+                    "name": "MAX_COMBINED_FRAGMENT_UNIFORM_COMPONENTS",
+                    "value": 262144
+                },
+                {
+                    "name": "MAX_COMBINED_TEXTURE_IMAGE_UNITS",
+                    "value": 64
+                },
+                {
+                    "name": "MAX_COMBINED_UNIFORM_BLOCKS",
+                    "value": 45
+                },
+                {
+                    "name": "MAX_COMBINED_VERTEX_UNIFORM_COMPONENTS",
+                    "value": 262144
+                },
+                {
+                    "name": "MAX_CUBE_MAP_TEXTURE_SIZE",
+                    "value": 16384
+                },
+                {
+                    "name": "MAX_DRAW_BUFFERS",
+                    "value": 8
+                },
+                {
+                    "name": "MAX_FRAGMENT_INPUT_COMPONENTS",
+                    "value": 128
+                },
+                {
+                    "name": "MAX_FRAGMENT_UNIFORM_BLOCKS",
+                    "value": 15
+                },
+                {
+                    "name": "MAX_FRAGMENT_UNIFORM_COMPONENTS",
+                    "value": 4096
+                },
+                {
+                    "name": "MAX_FRAGMENT_UNIFORM_VECTORS",
+                    "value": 1024
+                },
+                {
+                    "name": "MAX_PROGRAM_TEXEL_OFFSET",
+                    "value": 7
+                },
+                {
+                    "name": "MAX_RENDERBUFFER_SIZE",
+                    "value": 16384
+                },
+                {
+                    "name": "MAX_SAMPLES",
+                    "value": 16
+                },
+                {
+                    "name": "MAX_TEXTURE_IMAGE_UNITS",
+                    "value": 32
+                },
+                {
+                    "name": "MAX_TEXTURE_LOD_BIAS",
+                    "value": 15
+                },
+                {
+                    "name": "MAX_TEXTURE_SIZE",
+                    "value": 16384
+                },
+                {
+                    "name": "MAX_TRANSFORM_FEEDBACK_INTERLEAVED_COMPONENTS",
+                    "value": 64
+                },
+                {
+                    "name": "MAX_TRANSFORM_FEEDBACK_SEPARATE_ATTRIBS",
+                    "value": 4
+                },
+                {
+                    "name": "MAX_TRANSFORM_FEEDBACK_SEPARATE_COMPONENTS",
+                    "value": 4
+                },
+                {
+                    "name": "MAX_UNIFORM_BLOCK_SIZE",
+                    "value": 65536
+                },
+                {
+                    "name": "MAX_UNIFORM_BUFFER_BINDINGS",
+                    "value": 72
+                },
+                {
+                    "name": "MAX_VARYING_COMPONENTS",
+                    "value": 128
+                },
+                {
+                    "name": "MAX_VARYING_VECTORS",
+                    "value": 32
+                },
+                {
+                    "name": "MAX_VERTEX_ATTRIBS",
+                    "value": 16
+                },
+                {
+                    "name": "MAX_VERTEX_OUTPUT_COMPONENTS",
+                    "value": 128
+                },
+                {
+                    "name": "MAX_VERTEX_TEXTURE_IMAGE_UNITS",
+                    "value": 32
+                },
+                {
+                    "name": "MAX_VERTEX_UNIFORM_BLOCKS",
+                    "value": 15
+                },
+                {
+                    "name": "MAX_VERTEX_UNIFORM_COMPONENTS",
+                    "value": 4096
+                },
+                {
+                    "name": "MAX_VERTEX_UNIFORM_VECTORS",
+                    "value": 1024
+                },
+                {
+                    "name": "MAX_VIEWPORT_DIMS",
+                    "value": {
+                        "0": 16384,
+                        "1": 16384
+                    }
+                },
+                {
+                    "name": "MIN_PROGRAM_TEXEL_OFFSET",
+                    "value": -8
+                },
+                {
+                    "name": [
+                        "RED_BITS",
+                        "GREEN_BITS",
+                        "BLUE_BITS",
+                        "ALPHA_BITS"
+                    ],
+                    "value": "n/a"
+                },
+                {
+                    "name": "RENDERER",
+                    "value": "WebKit WebGL"
+                },
+                {
+                    "name": "SHADING_LANGUAGE_VERSION",
+                    "value": "WebGL GLSL ES 3.00 (OpenGL ES GLSL ES 3.0 Chromium)"
+                },
+                {
+                    "name": "UNIFORM_BUFFER_OFFSET_ALIGNMENT",
+                    "value": 32
+                },
+                {
+                    "name": "VENDOR",
+                    "value": "WebKit"
+                },
+                {
+                    "name": "VERSION",
+                    "value": "WebGL 2.0 (OpenGL ES 3.0 Chromium)"
+                }
+            ],
+            "extensions": [
+                "EXT_color_buffer_float",
+                "EXT_color_buffer_half_float",
+                "EXT_disjoint_timer_query_webgl2",
+                "EXT_float_blend",
+                "EXT_texture_compression_bptc",
+                "EXT_texture_compression_rgtc",
+                "EXT_texture_filter_anisotropic",
+                "EXT_texture_norm16",
+                "KHR_parallel_shader_compile",
+                "OES_draw_buffers_indexed",
+                "OES_texture_float_linear",
+                "OVR_multiview2",
+                "WEBGL_compressed_texture_astc",
+                "WEBGL_compressed_texture_etc",
+                "WEBGL_compressed_texture_etc1",
+                "WEBGL_compressed_texture_s3tc",
+                "WEBGL_compressed_texture_s3tc_srgb",
+                "WEBGL_debug_renderer_info",
+                "WEBGL_debug_shaders",
+                "WEBGL_lose_context",
+                "WEBGL_multi_draw"
+            ],
+            "glCanvas": "webgl2",
+            "antialiasing": true,
+            "textureMaxAnisotropyExt": 16,
+            "shaiderPrecisionFormat": "highp/highp"
+        },
+        "extensions": {
+            "enabled": true,
+            "preloadCustom": true,
+            "names": []
+        },
+        "s3Path": "zero_profile.zip",
+        "s3Date": "",
+        "devicePixelRatio": 1,
+        "owner": "63141583aa162d73ef4427e0",
+        "checkCookies": false,
+        "chromeExtensions": [],
+        "userChromeExtensions": [],
+        "cookies": {
+            "checkCookies": false
+        }
+    }
+}
