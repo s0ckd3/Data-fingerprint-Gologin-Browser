@@ -725,3 +725,6 @@
 
 # Liên hệ mua
 Tele: [https://t.me/Shanghaz](https://t.me/Shanghaz)
+
+# Tool tạo profile Gologin
+Video: [Xem video](https://youtu.be/yWpR5UKXnCw)
